@@ -1,0 +1,2 @@
+# BaseTraning
+some little function
